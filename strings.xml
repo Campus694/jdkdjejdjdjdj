@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Payment Helper</string>
+    <string name="accessibility_description">Reads visible balance text only from the bank app selected by the user, after the user starts a check.</string>
+</resources>
